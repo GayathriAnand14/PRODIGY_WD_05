@@ -22,3 +22,6 @@ This is a simple and user-friendly web-based weather application that allows use
 - Real-time data from OpenWeatherMap API
 
 ## OUTPUT SCREENSHOT:
+
+![Image](https://github.com/user-attachments/assets/c3b753c8-e398-4e9e-87ec-0174922e2e2e)
+
