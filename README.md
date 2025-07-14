@@ -24,4 +24,5 @@ This is a simple and user-friendly web-based weather application that allows use
 ## OUTPUT SCREENSHOT:
 
 ![Image](https://github.com/user-attachments/assets/c3b753c8-e398-4e9e-87ec-0174922e2e2e)
+![Image](https://github.com/user-attachments/assets/0c99e085-f2b7-4684-902f-c36aee9bc78b)
 
